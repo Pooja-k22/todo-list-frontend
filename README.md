@@ -6,10 +6,10 @@ To-Do application that allows users to manage tasks efficiently. Users can add, 
 
 ## Tech Stack
 
-Frontend: React.js, Tailwind, Axios, React Icons, Context Api
-Backend: Node.js, Express.js
-Database:  MongoDB
-Authentication: JWT 
+Frontend: React.js, Tailwind, Axios, React Icons, Context Api |
+Backend: Node.js, Express.js |
+Database:  MongoDB |
+Authentication: JWT  |
 
 ## Setup Instructions
 
